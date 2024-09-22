@@ -1,0 +1,12 @@
+.price{
+    background-color: #e5c771;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+}
+.oldPrice{
+    margin-right: .5rem;
+    text-decoration: line-through;
+}
